@@ -1,10 +1,6 @@
-#  APDocxBuilder Complete Overview
+#  Lab File Builder Complete Overview
 
 > Making lab file can be very cumbersome and filling out the index manually can be tedious at times. so APDocxBuilder has brought a solution to this.
-> APDocxBuilder, your friendly lab file builder
-
-> you'll find deployed site to be having different UI, I had changed it later so my college students finds it somewhat attractive
-and for that I have used someone else's HTML and CSS styling that's why i didn't push that code in this branch for avoiding plagiarism.
 
 # How to Run:
 * create a virtual environment by using this command :- python -m venv nameOfvirtualEnv
